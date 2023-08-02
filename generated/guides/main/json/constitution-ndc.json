@@ -1,0 +1,269 @@
+{
+  "categories": [
+    "governance"
+  ],
+  "content": "The foundation of NDC governance",
+  "created": "2023-02-18T01:12:54.241Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "constitution-ndc",
+  "name": "Constitution",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\nThe NEAR Digital Collective (NDC) is an ambitious project that brings together users, projects, stakeholders, and partners of the NEAR ecosystem to create a radically new way of governing itself. The NDC is not an entity, or DAO, it is a framework for self-governance.\n\nTo achieve this goal, the NDC is on a journey to create a governance model that allows it to serve the needs of the community. As a result, governance will go through a number of iterations as the project grows, and the needs of the ecosystem change.",
+      "name": "What is the NDC Constitution I",
+      "stepItems": [],
+      "uuid": "ce15d3f9-930f-4c8d-9fa0-e9be8849b40f"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "ccc5530d"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "e0f25ba9"
+            },
+            {
+              "content": "False",
+              "key": "ccc5530d"
+            }
+          ],
+          "content": "The NDC governance framework will remain the same for years to come.",
+          "type": "SingleChoice",
+          "uuid": "b7f115b5-e91f-4443-96ea-f7e88b2fbb85"
+        }
+      ],
+      "uuid": "5b682b48-db0e-4dd9-82a9-40513c3aa502"
+    },
+    {
+      "content": "The foundation of this governance is the NDC Constitution. A constitution is, at its simplest, a collection of fundamental principles that an organisation or entity agrees to work by. Think of it as a rule book, and in that rule book are descriptions of the main institutions that make up this organisation, and the relationship between them. \n\nBelow we’re going to explore one of the first drafts of the NDC Constitution. \n\nAt present, this isn’t fixed in stone, but shows the direction the NDC hopes to travel in once the constitution is finalised and live.\n",
+      "name": "What is the NDC Constitution II",
+      "stepItems": [],
+      "uuid": "d6e617bf-fd12-42f9-9e53-6824872b2a97"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "4e996e02"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "5b8ad8ac"
+            },
+            {
+              "content": "False",
+              "key": "4e996e02"
+            }
+          ],
+          "content": "The foundation of governance is the DAO.",
+          "type": "MultipleChoice",
+          "uuid": "ecb54209-6ba5-4ec0-b789-90385e9c58f7"
+        }
+      ],
+      "uuid": "bf083612-275e-4942-a267-34bc00b2bb2c"
+    },
+    {
+      "content": "The core principles form the cornerstone of the NDC’s commitment to the community. The NDC governance you see referenced below is a catch all term for the people working to bring the NDC to life. \n\nFreedom from Censorship - NDC Governance Shall not infringe upon the rights of the individual or collective concerning freedom of speech or participation.\n\nNon-Infringement - NDC Governance shall not infringe upon the interests, decisions, and governance choices of dApps, protocols, and creative works built and operating within the NEAR Ecosystem.\n\nNon-Partiality - NDC Governance Shall not display unfair advantage, preferential treatment, undue influence, or partiality to any specific project, entity or group (“nodes”).",
+      "name": "Core Principles I",
+      "stepItems": [],
+      "uuid": "73bdbbcb-fea3-4459-96c6-dfaa954aead3"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "7e0f0a85"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "7e0f0a85"
+            },
+            {
+              "content": "False",
+              "key": "f1782145"
+            }
+          ],
+          "content": "NDC Governance is currently defined as the people working to bring the NDC to life.",
+          "type": "MultipleChoice",
+          "uuid": "91217ee5-0823-4ab4-a404-2981b359b375"
+        }
+      ],
+      "uuid": "20b20b3e-3d58-4cc0-becd-28969ee5ae3b"
+    },
+    {
+      "content": "Ecosystem First - NDC Governance Is to prioritise the success of the NEAR Ecosystem above any individual’s interest. The NEAR Ecosystem is a collective and as such, it is always treated as more important than any one person, regardless of their influence.\n\nDeclaration of Conflict of Interest - Any individual or member participating in the NDC Governance Of the NDC is to disclose relevant conflicts of interest, when announcing their candidacy for a position in a governance body, and prior to assuming their position in the governance structure.\n\nTransparent Decision-Making - Transparency is the key to establishing trust between all stakeholders, and as such the Governance body commits to a collaborative and transparent approach in all governance decisions, so as to drive accountability and foster trust.",
+      "name": "Core Principles II",
+      "stepItems": [],
+      "uuid": "8b93aadd-7026-4fb4-957c-17ab4615adc1"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "9caf25a9",
+            "9165bd75",
+            "09a43123",
+            "e8435eb1",
+            "dda4685b",
+            "63727208"
+          ],
+          "choices": [
+            {
+              "content": "Ecosystem first",
+              "key": "9caf25a9"
+            },
+            {
+              "content": "Declaration of conflict of interest",
+              "key": "9165bd75"
+            },
+            {
+              "content": "Transparent decision-making",
+              "key": "09a43123"
+            },
+            {
+              "content": "Non-partiality",
+              "key": "e8435eb1"
+            },
+            {
+              "content": "Non-infringement",
+              "key": "dda4685b"
+            },
+            {
+              "content": "Freedom from censorship",
+              "key": "63727208"
+            }
+          ],
+          "content": "NDC's core principles include (check all that apply): ",
+          "type": "MultipleChoice",
+          "uuid": "b7433187-b52d-462b-bd95-72217910a9c6"
+        }
+      ],
+      "uuid": "3b6bed5c-00d6-4a52-9df4-d3276fa7f7c8"
+    },
+    {
+      "content": "1. NEAR Digital Collective\n2. NDC Governance\n3. Voting Body\n4. Community Treasury",
+      "name": "Key Parts - NDC Constitution",
+      "stepItems": [],
+      "uuid": "8fc5546c-d429-4381-9b0a-eccbd9b20c7d"
+    },
+    {
+      "content": "The NDC refers to the governance framework that looks after the Community Treasury. This framework is designed to ensure allocating funds and budgeting for the development of the ecosystem is done in an open, transparent, and secure way.\n\nIn the first version of the NDC, decisions are delegated and managed by three separate institutions:\n \n- A House of Merit - this consists of 15 members from the ecosystem charged with passing proposals that deploy the treasury.\n\n- A Council of Advisors - this is a supervisory body made up of 7 community members that have the power to veto proposals being looked at by the House of Merit. \n\n- Transparency Commission - The Commission is made up of 7 community members and is charged with ensuring the integrity of all the houses, and ensures funds are allocated for their stated purposes.\n",
+      "name": "NEAR Digital Collective",
+      "stepItems": [],
+      "uuid": "05130ac2-efcd-42a3-a84b-366bda5f040d"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "9388ea38"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "9388ea38"
+            },
+            {
+              "content": "False",
+              "key": "a40f933e"
+            }
+          ],
+          "content": "The NDC governance framework looks after the Community Treasury.",
+          "type": "MultipleChoice",
+          "uuid": "e20e1f38-b7f2-43b5-a81d-c93498216652"
+        }
+      ],
+      "uuid": "9d9c095d-91be-48c6-a452-78120f955cc2"
+    },
+    {
+      "content": "NDC Governance is an elected body designed to govern the Community Treasury. Members of the Governance Body are elected by the Voting Body.",
+      "name": "NDC Governance",
+      "stepItems": [],
+      "uuid": "c6c1f1c3-bba5-4b0c-b668-68811f5dd840"
+    },
+    {
+      "content": "The Voting Body is every NEAR account designated as a voting account, which is any wallet that has taken part in a vote.",
+      "name": "Voting Body",
+      "stepItems": [],
+      "uuid": "5177489c-61ec-4531-96f9-f8dd4e21b9ea"
+    },
+    {
+      "content": "The Community Treasury exists to provide grants and other disbursements in strict accordance with the strategic direction set by the Governance Body.",
+      "name": "Community Treasury",
+      "stepItems": [],
+      "uuid": "0d48e95d-25d6-4421-849e-5e67d37b633e"
+    },
+    {
+      "content": "The Constitution is a living document. That means it will adapt and change to the needs of the community. But in order to meet those needs, it needs a process by which change can take place.  \n\nThere are two key ways amendments can be submitted:\nA proposal is created by the House of Merit, and passed through the Council of Advisors for assessment. \nA proposal is put forward by the Voting Body, and is voted on by more than 50% of the Voting Body in favour of the changes. \n\nFormal changes are then made in the next Congress.\n",
+      "name": "Changing the Constitution",
+      "stepItems": [],
+      "uuid": "8c2cf469-e10e-49dc-b6db-077f43f72e97"
+    },
+    {
+      "content": "",
+      "name": "Quick Question",
+      "stepItems": [
+        {
+          "answerKeys": [
+            "cb50cf9f"
+          ],
+          "choices": [
+            {
+              "content": "True",
+              "key": "cb50cf9f"
+            },
+            {
+              "content": "False",
+              "key": "de847254"
+            }
+          ],
+          "content": "The Constitution provides a way for amendments to be made to the governance framework.",
+          "type": "MultipleChoice",
+          "uuid": "bbd9b944-c7f9-4a82-b35b-1d945ee1d7ea"
+        }
+      ],
+      "uuid": "bb2c0600-f3ba-46d4-a41f-8b8eda88ca95"
+    },
+    {
+      "content": "As we mentioned at the beginning of this exploration of the Constitution, this is where we are now in terms of creating this foundation for how things will progress. \n\nThe Constitution will adapt in time to the needs of the Community, as and when it needs to. \n\nTo read the full version of the Constitution, you can find it here.\nhttps://docs.google.com/document/d/1u3e4G1TKCkgi9B5wm_ueUKJEd5jYK66C0iDWqfstCCU/edit?usp=sharing",
+      "name": "This is the Beginning",
+      "stepItems": [],
+      "uuid": "9df83375-b960-49b0-a2a9-1851b7bacf7e"
+    },
+    {
+      "content": "",
+      "name": "Enter Account ID (.near)",
+      "stepItems": [
+        {
+          "label": "abc.near (example)",
+          "required": true,
+          "type": "PublicShortInput",
+          "uuid": "a88c85e6-5e9e-49ef-9252-5ceb7f3788cf"
+        }
+      ],
+      "uuid": "d9f1a886-c7a7-4475-8d8a-6ab682e68d70"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_constitution.png",
+  "uuid": "constitution-ndc"
+}

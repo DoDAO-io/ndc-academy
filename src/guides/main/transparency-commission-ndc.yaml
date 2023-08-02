@@ -1,0 +1,28 @@
+categories:
+  - governance
+content: Explains roles and responsibilities of  Transparency Commission
+created: '2023-01-23T21:05:08.399Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: course
+key: transparency-commission-ndc
+name: Transparency Commission
+publishStatus: Draft
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      # Coming Soon        
+    name: Introduction
+    stepItems: []
+    uuid: c83df7f3-f766-42f2-8c51-210831bcf0cb
+  - content: ''
+    name: Your Info
+    stepItems:
+      - label: Nickname
+        required: true
+        type: PublicShortInput
+        uuid: 9b5f084a-e90a-4069-b928-e9278c183bcb
+    uuid: 378e3f8a-291a-4ea1-ab60-dd02aed84fb7
+thumbnail: https://d31h13bdjwgzxs.cloudfront.net/academy/thendc/ndc_transparency.png
+uuid: transparency-commission-ndc

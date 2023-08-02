@@ -1,1 +1,6 @@
-guides: []
+guides:
+  - ndc-overview.yaml
+  - constitution-ndc.yaml
+  - house-of-merits-ndc.yaml
+  - transparency-commission-ndc.yaml
+  - elections-and-voting-ndc.yaml
